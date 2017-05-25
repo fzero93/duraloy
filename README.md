@@ -1,2 +1,2 @@
 # duraloy
-Theme for Duraloy website.
+Duraloy Website created by Austin Isinghood & Brandon Diaz
